@@ -1,8 +1,9 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
-  <hr style="border: 1px solid #2a2a2a; width: 60%; margin-left: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav3107&show_icons=true&theme=github_dark&hide_border=true&title_color=5FB3B3&icon_color=5FB3B3" />
-  <hr style="border: 1px solid #2a2a2a; width: 60%; margin-left: 0;">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav3107&show_icons=true&theme=github_dark&hide_border=true&title_color=4C8DFF&icon_color=4C8DFF" />
 </p>
 
 ## Hi, I'm Gaurav 👋

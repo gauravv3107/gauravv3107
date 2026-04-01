@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaurav3107&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
 ## Hi, I'm Gaurav 👋
 
 Computer Science student focused on building real-world projects and strengthening problem-solving skills.

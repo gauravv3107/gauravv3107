@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
+</p>
 
-<!--
-**gauravv3107/gauravv3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Gaurav 👋
 
-Here are some ideas to get you started:
+Computer Science student focused on building real-world projects and strengthening problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me
+
+* Interested in Web Development and software fundamentals
+* Currently focused on improving Data Structures & Algorithms
+* I prefer learning by building and refining projects over time
+
+---
+
+### 🛠️ Tech I Use
+
+* HTML, CSS, JavaScript
+* Git & GitHub
+* Expanding into more advanced concepts
+
+---
+
+### 📂 Projects
+
+Most of my work is pinned below.
+Each project reflects my progress and learning over time.
+
+---
+
+### 📈 Current Focus
+
+* Practicing Data Structures & Algorithms consistently
+* Revisiting and improving existing projects
+* Writing cleaner, more structured code
+
+---
+
+### 📬 Connect
+
+* LinkedIn: https://www.linkedin.com/in/gaurav-r-83b4803b9/

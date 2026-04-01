@@ -23,14 +23,12 @@ Computer Science student focused on building real-world projects and strengtheni
 * Git & GitHub
 * Expanding into more advanced concepts
 
----
 
 ### 📂 Projects
 
 Most of my work is pinned below.
 Each project reflects my progress and learning over time.
 
----
 
 ### 📈 Current Focus
 

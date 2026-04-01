@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header"/>
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=6&section=header"/>
 </p>
 
 ## Hi, I'm Gaurav 👋

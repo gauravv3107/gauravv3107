@@ -2,20 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
 </p>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C8DFF,100:0f2027&height=2&section=header&width=500"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C8DFF,100:0f2027&height=5&section=header&width=500"/>
 </p>
 
-Computer Science student focused on building real-world projects and strengthening problem-solving skills.
-
-
 ### 💡 About Me
+
+Computer Science student focused on building real-world projects and strengthening problem-solving skills.
 
 * Interested in Web Development and software fundamentals
 * Currently focused on improving Data Structures & Algorithms
 * I prefer learning by building and refining projects over time
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:0f2027&height=2&section=header&width=500"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:0f2027&height=5&section=header&width=500"/>
 </p>
 
 ### 🛠️ Tech I Use
@@ -38,7 +37,7 @@ Each project reflects my progress and learning over time.
 * Writing cleaner, more structured code
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:0f2027&height=2&section=header&width=500"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:0f2027&height=5&section=header&width=500"/>
 </p>
 
 ### 📬 Connect

@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header"/>
 </p>
 
 ## Hi, I'm Gaurav 👋
@@ -41,4 +42,6 @@ Each project reflects my progress and learning over time.
 
 ### 📬 Connect
 
+* Email: gauravv3107@gmail.com
 * LinkedIn: https://www.linkedin.com/in/gaurav-r-83b4803b9/
+* Instagram: https://www.instagram.com/gauravvvxx._/

@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:4C8DFF&height=4&section=header"/>
 </p>
 
-## Hi, I'm Gaurav 👋
-
 Computer Science student focused on building real-world projects and strengthening problem-solving skills.
 
 ---

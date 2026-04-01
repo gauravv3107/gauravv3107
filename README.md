@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4C8DFF&size=22&lines=Hi+I'm+Gaurav;Building+and+learning;Improving+every+day" />
 </p>
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:4C8DFF&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C8DFF,100:0f2027&height=3&section=header"/>
 </p>
 
 Computer Science student focused on building real-world projects and strengthening problem-solving skills.
@@ -15,7 +15,6 @@ Computer Science student focused on building real-world projects and strengtheni
 * Currently focused on improving Data Structures & Algorithms
 * I prefer learning by building and refining projects over time
 
----
 
 ### 🛠️ Tech I Use
 

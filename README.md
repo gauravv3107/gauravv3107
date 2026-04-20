@@ -12,6 +12,7 @@ Computer Science student focused on building real-world projects and strengtheni
 * Interested in Web Development and software fundamentals
 * Currently focused on improving Data Structures & Algorithms
 * I prefer learning by building and refining projects over time
+* 📄 [View My Resume](Gaurav_R_Resume.pdf)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a2a2a,100:0f2027&height=4&section=header&width=500"/>
